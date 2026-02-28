@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Lauren 🤓
 
-<!--
-**lolokauf/lolokauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build free privacy tools that help people and businesses understand and control their data.
 
-Here are some ideas to get you started:
+Most of my work stems from a deep belief that data privacy is a fundamental right. Through https://www.healthy-tension.com/, I hope to build the privacy tools we need that the market likely won't prioritize.
+This work started from a desire to build-to-learn and aims to responsibly leverage the latest AI coding tools, emerging services, and techniques. All feedback is welcome for further learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+* [Policy Parser|https://healthy-tension.com/tools/policy-parser]: A tool for probabilistically evaluating privacy policies based on your personal privacy preferences.
+* [Privacy Prompts|https://healthy-tension.com/tools/privacy-prompts]: A growing collection of useful privacy prompts or skills for agents, developed and tested by me or credited to their authors.
+* Coming soon: Remote exploratory data analysis
+* Coming soon: Differential Privacy Sensitivity Analysis tool
+
+# About Me
+* Director of Product Incubation at LiveRamp working to enable agentic data collaboration, securely & at scale.
+* Occasional and half-hearted newsletter author at https://healthytension.substack.com/.
+* Research/development interests include privacy-enhancing technologies, privacy user experience, and the intersection between data privacy, public policy, and market dynamics.
