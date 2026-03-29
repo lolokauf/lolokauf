@@ -7,9 +7,7 @@ This work started from a desire to build-to-learn and aims to responsibly levera
 
 **What I work on**
 * [Policy Parser](https://healthy-tension.com/tools/policy-parser): A tool for probabilistically evaluating privacy policies based on your personal privacy preferences.
-* [Privacy Prompts](https://healthy-tension.com/tools/privacy-prompts): A growing collection of useful privacy prompts or skills for agents, developed and tested by me or credited to their authors.
-* Coming soon: Remote exploratory data analysis
-* Coming soon: Differential Privacy Sensitivity Analysis tool
+* [Privacy Skills](https://github.com/lolokauf/healthy-tension-privacy-skills): A growing collection of useful privacy skills for agents, developed and tested by me or credited to their authors.
 
 # About Me
 * Director of Product Incubation at LiveRamp working to enable agentic data collaboration, securely & at scale.
