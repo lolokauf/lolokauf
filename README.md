@@ -6,6 +6,7 @@ Most of my work stems from a deep belief that data privacy is a fundamental righ
 This work started from a desire to build-to-learn and aims to responsibly leverage the latest AI coding tools, emerging services, and techniques. All feedback is welcome for further learning.
 
 **What I work on**
+* Keeping private context private
 * [Policy Parser](https://healthy-tension.com/tools/policy-parser): A tool for probabilistically evaluating privacy policies based on your personal privacy preferences.
 * [Privacy Skills](https://github.com/lolokauf/healthy-tension-privacy-skills): A growing collection of useful privacy skills for agents, developed and tested by me or credited to their authors.
 
